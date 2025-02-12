@@ -1,1 +1,1 @@
-currently learning HTML/CSS
+currently learning HTML/CSS, java and javascript
